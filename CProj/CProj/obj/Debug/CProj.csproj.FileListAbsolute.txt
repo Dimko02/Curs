@@ -1,0 +1,10 @@
+D:\SolutionVS\CProj\CProj\bin\Debug\CProj.exe.config
+D:\SolutionVS\CProj\CProj\bin\Debug\CProj.exe
+D:\SolutionVS\CProj\CProj\bin\Debug\CProj.pdb
+D:\SolutionVS\CProj\CProj\obj\Debug\CProj.csprojAssemblyReference.cache
+D:\SolutionVS\CProj\CProj\obj\Debug\CProj.Properties.Resources.resources
+D:\SolutionVS\CProj\CProj\obj\Debug\CProj.csproj.GenerateResource.cache
+D:\SolutionVS\CProj\CProj\obj\Debug\CProj.csproj.CoreCompileInputs.cache
+D:\SolutionVS\CProj\CProj\obj\Debug\CProj.exe
+D:\SolutionVS\CProj\CProj\obj\Debug\CProj.pdb
+D:\SolutionVS\CProj\CProj\obj\Debug\CProj.MainForm.resources
